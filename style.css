@@ -1,9 +1,15 @@
-html { 
+html {
+
   background: url(images/download.jpg) no-repeat center center fixed;
   background-size: cover;
+
 }
 
-h1, h2, h3, p, table {
+h1,
+h2,
+h3,
+p,
+table {
   background-color: black;
   color: white;
   text-align: center;
@@ -13,6 +19,7 @@ h1, h2, h3, p, table {
   outline-width: thin;
   margin-left: auto;
   margin-right: auto;
+
 }
 
 h3 {
@@ -35,4 +42,5 @@ p {
   border: 5px solid white;
   outline-style: solid;
   outline-width: thin;
+
 }
